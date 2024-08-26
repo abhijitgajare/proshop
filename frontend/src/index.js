@@ -7,7 +7,6 @@ import './assets/styles/index.css';
 import App from './App';
 import HomeScreen from './screens/HomeScreen';
 import ProductScreen from './screens/ProductScreen';
-import reportWebVitals from './reportWebVitals';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -24,5 +23,3 @@ root.render(
     <RouterProvider router={router} />
   </React.StrictMode>
 );
-
-reportWebVitals();
