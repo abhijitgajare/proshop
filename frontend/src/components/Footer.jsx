@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // footer component
+=======
+// footer component
+>>>>>>> 914ec08dbd76f977be63ea4fd6a6a7a464601aa4
 
 import { Container, Row, Col } from "react-bootstrap";
 
