@@ -1,3 +1,5 @@
+// footer components
+
 import { Container, Row, Col } from "react-bootstrap";
 
 const Footer = () => {
